@@ -8,7 +8,7 @@
 
 Name:    kf6-breeze-icons
 Summary: Breeze icon theme library
-Version: 6.18.0
+Version: 6.28.0
 Release: 0%{?dist}
 
 # skladnik.svg is CC-BY-SA-4.0
