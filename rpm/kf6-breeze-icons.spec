@@ -4,11 +4,11 @@
 # for compatibility, to be removed once Kexi (and others?) are ported
 %global install_rcc 1
 
-%global kf_version 6.28.0
+%global kf_version 6.24.0
 
 Name:    kf6-breeze-icons
 Summary: Breeze icon theme library
-Version: 6.28.0
+Version: 6.24.0
 Release: 0%{?dist}
 
 # skladnik.svg is CC-BY-SA-4.0
